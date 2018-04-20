@@ -1,0 +1,10 @@
+# This is a comment
+prefix=/Users/jenkins/workspace/linphone-ios-liblinphone-tester/liblinphone-sdk/x86_64-apple-darwin.ios
+exec_prefix=/Users/jenkins/workspace/linphone-ios-liblinphone-tester/liblinphone-sdk/x86_64-apple-darwin.ios/bin
+includedir=/Users/jenkins/workspace/linphone-ios-liblinphone-tester/liblinphone-sdk/x86_64-apple-darwin.ios/include
+
+Name: oRTP 
+Description: Implement the RFC3550 (RTP) with a easy to use API with high and low level access.
+Version: 1.0.2
+Libs: -L/Users/jenkins/workspace/linphone-ios-liblinphone-tester/liblinphone-sdk/x86_64-apple-darwin.ios/lib -lortp 
+Cflags: -I/Users/jenkins/workspace/linphone-ios-liblinphone-tester/liblinphone-sdk/x86_64-apple-darwin.ios/include 
